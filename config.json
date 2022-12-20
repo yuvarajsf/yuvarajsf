@@ -1,0 +1,11 @@
+{
+    "users":{
+        "username":"thisIsuser",
+        "password":"SecuredPassword"
+    },
+    "admin":{
+        "username":"thisISAdmin",
+        "password":"AdminPassword",
+        "authToken":"xjlfkjaoiaejfljalfjalfjoeiflasjf"
+    }
+}
